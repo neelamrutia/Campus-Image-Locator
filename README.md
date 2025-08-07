@@ -1,1 +1,1 @@
-# Campus-Image-Locator
+# DL-Based-Campus-Image-Locator
